@@ -1,0 +1,39 @@
+﻿  Solarsystemhxz.cpp
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\hxzskybox.h(264): warning C4244: “参数”: 从“GLint”转换到“GLfloat”，可能丢失数据
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(35): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(36): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(105): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(105): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(145): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(145): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(173): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(173): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(214): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(214): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(231): warning C4305: “=”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(273): warning C4305: “参数”: 从“double”到“float”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(280): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(280): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(281): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(281): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(282): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(282): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(324): warning C4305: “参数”: 从“double”到“float”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(325): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(331): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(331): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(332): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(332): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(333): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(333): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(372): warning C4305: “参数”: 从“double”到“float”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(373): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(378): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(378): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(379): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(379): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(380): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(380): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\personalfiles\projects\graphics\solarsystem\solarsystemhxz\solarsystemhxz\solarsystemhxz.cpp(559): warning C4326: “main”的返回类型应为“int”而非“void”
+  Solarsystemhxz.vcxproj -> C:\PersonalFiles\Projects\Graphics\Solarsystem\Solarsystemhxz\Debug\Solarsystemhxz.exe
